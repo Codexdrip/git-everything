@@ -38,3 +38,4 @@ git init
 git branch   
 
 updated encoding
+encoding successful
