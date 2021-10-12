@@ -27,7 +27,13 @@ git commit -am "message"
 git diff   
 git diff -a   
 
-
+### Merging   
+(on main branch to receive merge) git merge <branch to take in>    
+    
+   
+### Revert & Reset   
+Revert - if commit is in remote repo   
+Reset - if commit is in local repo
 
 
 ### Init   
