@@ -4,3 +4,4 @@ Third Line
 Fourth Line
 Github Line
 Command line
+merge conflict 1
